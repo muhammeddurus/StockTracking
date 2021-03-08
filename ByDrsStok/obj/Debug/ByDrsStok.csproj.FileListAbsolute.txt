@@ -1,0 +1,13 @@
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\bin\Debug\ByDrsStok.exe.config
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\bin\Debug\ByDrsStok.exe
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\bin\Debug\ByDrsStok.pdb
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.Form1.resources
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.exe
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.pdb
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.Stok.resources
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.Satislar.resources
+C:\Users\Muhammed\source\repos\ByDrsStok\ByDrsStok\obj\Debug\ByDrsStok.odeme.resources
